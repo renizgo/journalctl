@@ -1,0 +1,2 @@
+# journalctl
+Journalctl na prática
